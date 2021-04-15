@@ -5,7 +5,7 @@ I am a Spanish Linguist from Argentina looking to build a carrer path in Tech as
 
 🤓  Recently completed a 7 month course in Data Science. 
 
-📖  I’m currently enrolled in a Natural Language Processing Specialization, by DeepLearning AI
+📖  I’m currently enrolled in a Natural Language Processing Specialization by DeepLearning AI
 
 
 <!---
