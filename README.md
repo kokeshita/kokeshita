@@ -1,4 +1,8 @@
 👋  <h4> Hi, I’m Jazmin! </h4>
+
+I am a Spanish Linguist from Argentina looking to build a carrer path in Tech as a Computational Linguist. 
+
+🤓  
 Recently completed a 7 month course in Data Science. 
 
 📖  
