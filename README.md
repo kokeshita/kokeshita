@@ -1,4 +1,4 @@
-👋 Hi, I’m Jazmin! 
+👋  Hi, I’m Jazmin! 
 
 
 I am a Spanish Linguist from Argentina looking to build a carrer path in Tech as a Computational Linguist. 
