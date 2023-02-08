@@ -1,13 +1,9 @@
 👋  <h4> Hi, I’m Jazmin! </h4>
 
-I am a Spanish Linguist from Argentina looking to build a carrer path in Tech as a Computational Linguist. 
-
-🤓  
-Recently completed a 7 month course in Data Science. 
+I am a Spanish Linguist from Argentina looking for opportunities to learn and build skills in the tech field in all thing language related. 
 
 📖  
-I’m currently enrolled in a Natural Language Processing Specialization by DeepLearning AI
-
+I have completed courses in Data Science, NLP and I'm currently on my way to get certified as a Conversation Designer. 
 
 <!---
 kokeshita/kokeshita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
