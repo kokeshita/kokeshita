@@ -1,6 +1,6 @@
 👋  <h4> Hi, I’m Jazmin! </h4>
 
-I am a Spanish Linguist from Argentina looking for opportunities to learn and build skills in the tech field in all things language related. 
+I am a Spanish Linguist from Argentina living in California. I'm looking for opportunities to learn and build skills in the tech field in all things language related. 
 
 📖  
 I have completed courses in Data Science, NLP and I'm currently delving into the UX field with recent certifications in UX/UI Design and Conversation Design. 
