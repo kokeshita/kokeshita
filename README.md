@@ -3,7 +3,7 @@
 I am a Spanish Linguist from Argentina looking for opportunities to learn and build skills in the tech field in all things language related. 
 
 📖  
-I have completed courses in Data Science, NLP and I'm currently on my way to get certified as a UX/UI and Conversation Designer. 
+I have completed courses in Data Science, NLP and I'm currently delving into the UX field with recent certifications in UX/UI Design and Conversation Design. 
 
 <!---
 kokeshita/kokeshita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
